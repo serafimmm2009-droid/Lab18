@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab18-Lemeshov")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b919e39756656edad85ff1e9422906a726a4bd5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab18-Lemeshov")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab18-Lemeshov")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

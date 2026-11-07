@@ -1,0 +1,15 @@
+C:\Users\Том\Documents\Lab18-Lemeshov\bin\Debug\net10.0\Lab18-Lemeshov.exe
+C:\Users\Том\Documents\Lab18-Lemeshov\bin\Debug\net10.0\Lab18-Lemeshov.deps.json
+C:\Users\Том\Documents\Lab18-Lemeshov\bin\Debug\net10.0\Lab18-Lemeshov.runtimeconfig.json
+C:\Users\Том\Documents\Lab18-Lemeshov\bin\Debug\net10.0\Lab18-Lemeshov.dll
+C:\Users\Том\Documents\Lab18-Lemeshov\bin\Debug\net10.0\Lab18-Lemeshov.pdb
+C:\Users\Том\Documents\Lab18-Lemeshov\obj\Debug\net10.0\Lab18-Lemeshov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Том\Documents\Lab18-Lemeshov\obj\Debug\net10.0\Lab18-Lemeshov.AssemblyInfoInputs.cache
+C:\Users\Том\Documents\Lab18-Lemeshov\obj\Debug\net10.0\Lab18-Lemeshov.AssemblyInfo.cs
+C:\Users\Том\Documents\Lab18-Lemeshov\obj\Debug\net10.0\Lab18-Lemeshov.csproj.CoreCompileInputs.cache
+C:\Users\Том\Documents\Lab18-Lemeshov\obj\Debug\net10.0\Lab18-Lemeshov.sourcelink.json
+C:\Users\Том\Documents\Lab18-Lemeshov\obj\Debug\net10.0\Lab18-Lemeshov.dll
+C:\Users\Том\Documents\Lab18-Lemeshov\obj\Debug\net10.0\refint\Lab18-Lemeshov.dll
+C:\Users\Том\Documents\Lab18-Lemeshov\obj\Debug\net10.0\Lab18-Lemeshov.pdb
+C:\Users\Том\Documents\Lab18-Lemeshov\obj\Debug\net10.0\Lab18-Lemeshov.genruntimeconfig.cache
+C:\Users\Том\Documents\Lab18-Lemeshov\obj\Debug\net10.0\ref\Lab18-Lemeshov.dll
